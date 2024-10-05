@@ -7,6 +7,6 @@
 <title>Welcome</title>
 </head>
 <body>
-	<h2>Welcome!</h2>
+	<h2>Chào mừng Admin!</h2>
 </body>
 </html>
